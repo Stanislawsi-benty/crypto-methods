@@ -1,0 +1,4 @@
+﻿  encrypt.cpp
+C:\Users\Stanislawski\Desktop\InfSec\lab4.1\lab4\encrypt.cpp(96,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Stanislawski\Desktop\InfSec\lab4.1\lab4\encrypt.cpp(103,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab4.vcxproj -> C:\Users\Stanislawski\Desktop\InfSec\lab4.1\lab4\x64\Debug\lab4.exe

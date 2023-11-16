@@ -1,0 +1,3 @@
+﻿  encrypt.cpp
+C:\Users\Stanislawski\Desktop\InfSec\labort5\encrypt.cpp(111,9): warning C4101: count: неиспользованная локальная переменная
+  labort5.vcxproj -> C:\Users\Stanislawski\Desktop\InfSec\labort5\x64\Debug\labort5.exe

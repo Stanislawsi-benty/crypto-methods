@@ -1,0 +1,4 @@
+﻿  encrypt.cpp
+C:\Users\Stanislawski\Desktop\InfSec\lab6\encrypt.cpp(170,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Stanislawski\Desktop\InfSec\lab6\encrypt.cpp(182,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  lab6.vcxproj -> C:\Users\Stanislawski\Desktop\InfSec\lab6\x64\Debug\lab6.exe
